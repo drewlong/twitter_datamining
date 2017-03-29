@@ -8,7 +8,7 @@ TweetStream.configure do |config|
   config.oauth_token        = # OAuth Token
   config.oauth_token_secret = # Oauth Token Secret
   config.consumer_key       = # Consumer Key
-  config.consumer_secret    = # 
+  config.consumer_secret    = # Consumer Secret
   config.auth_method        = :oauth
 end
 
